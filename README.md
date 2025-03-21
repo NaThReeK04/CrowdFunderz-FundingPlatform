@@ -35,13 +35,6 @@ Easily track ongoing crowdfunding campaigns and donation amounts in real-time.
 - **Community Giving Day (Bengaluru)** – 01-Jan-2024 | 8:00 - 10:00
 - **Impactathon (New Delhi)** – 15-Jan-2024 | 8:00 - 10:00
 
-## Meet Our Team
-Our dedicated team works tirelessly to drive change:
-- **Abdul**
-- **Jayant Ramdurg**
-- **Keerthan Ghodiwal**
-- **Keerthy Reddy**
-
 ## Get Involved
 **Become a Volunteer** and contribute to meaningful causes. Whether you're passionate about education, social justice, or environmental conservation, there's a role for you!
 
